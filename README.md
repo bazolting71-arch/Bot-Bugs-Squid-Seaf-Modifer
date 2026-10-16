@@ -10,3 +10,5 @@ Stick to 2x spawns, Crashes happen 90% less. But not guaranteed
 S.e.a.f spawns don't seem to cause any crashes, changing their spawns also doesn't seem to cause crashes only enemy spawns towards the end of missions. (Likely due to tons of enemy spawns with tons of enemy spawns...)
 
 Install Bingus Shared loader
+
+Tested With Arsenal Mod Launcher
