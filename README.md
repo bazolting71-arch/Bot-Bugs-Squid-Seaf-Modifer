@@ -8,3 +8,5 @@ Wouldn't recommend setting spawns above 2.5x. Tested over 15 games, seems more l
 Stick to 2x spawns, Crashes happen 90% less. But not guaranteed 
 
 S.e.a.f spawns don't seem to cause any crashes, changing their spawns also doesn't seem to cause crashes only enemy spawns towards the end of missions.
+
+Install Bingus Shared loader
