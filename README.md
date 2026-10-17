@@ -18,11 +18,15 @@ Tested With Arsenal Mod Launcher
 UPD as of 10/17/26
 
 There's 3 Files in here
-HeavyOFF means S.E.A.F is off on any planet.
-HeavyON means S.E.A.F is on, on any planet.
-If you're using Arsenal mod launcher i recommend you using the one with (f5+Arsenal) This is because it's a lot easier to tweak in the config tab of the launcher
+HeavyOFF means global S.E.A.F is off. (I think; I haven't tested if the sliders work on base planets with SEAF present) 
+HeavyON means Global S.E.A.F is on, on any planet. (they can spawn on any planet)
 
-To customize your Seaf spawn rates just go pause the game and head onto Mod options, you should see the seaf sliders. Note that to change the spawn rate of seaf move up and down the sliders but to actually take affect is to change it to your preferred setting and restarting your game.
+If you're using Arsenal mod launcher i recommend you using the one with base SEAF_F5 This is because it's a lot easier to tweak in the config tab of the launcher tab. You also change your spawn rates there in the arsenal tab instead of the mod options tab. (because there isnt a mod options tab for this specific zip)
+
+
+For (HeavyON & OFF)
+
+To customize your Seaf spawn rates, pause the game and go to Mod options; you should see the Seaf sliders. To change the Seaf spawn rate, move the sliders up or down, then set it to your preferred value and restart the game.
 
 
 
@@ -36,5 +40,9 @@ Notes
 - Open menu Squid/Bug/Bot menu with f5 and go to mods setting to tweak seaf spawn rate.
 
 - If you do actually plan on using Arsenal mod launcher I would prefer you use Pickyourbots_SEAF_F5 ZIP rather then version 2 of it. Its more simple other then the added feature of changing S.E.A.F in the menu. Since you still have to reset the game anyways for the S.E.A.Fs setting you put to work (BUT global S.E.A.F will always be on (Meaning S.E.A.F Spawn in any planet)
+
+- restart the game if you change your sliders (if ur using heavy on or off)
+
+- ngl theres still a slider on heavyoff and i havn't tested it on like a base planet that already has the global seaf, so if you and theres an affect lmk
 
 for liberty!!!
