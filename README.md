@@ -25,6 +25,7 @@ If you're using Arsenal mod launcher i recommend you using the one with (f5+Arse
 To customize your Seaf spawn rates just go pause the game and head onto Mod options, you should see the seaf sliders. Note that to change the spawn rate of seaf move up and down the sliders but to actually take affect is to change it to your preferred setting and restarting your game.
 
 
+
 CREDITS
 Pick your bots/bugs/squids: feroz.
 
@@ -33,5 +34,7 @@ Notes
   Mod Options Menu the cooldowns use the default 20%.
 
 - Open menu Squid/Bug/Bot menu with f5 and go to mods setting to tweak seaf spawn rate.
+
+- If you do actually plan on using Arsenal mod launcher I would prefer you use Pickyourbots_SEAF_F5 ZIP rather then version 2 of it. Its more simple other then the added feature of changing S.E.A.F in the menu. Since you still have to reset the game anyways for the S.E.A.Fs setting you put to work (BUT global S.E.A.F will always be on (Meaning S.E.A.F Spawn in any planet)
 
 for liberty!!!
